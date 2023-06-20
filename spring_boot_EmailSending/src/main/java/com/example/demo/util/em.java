@@ -1,5 +1,5 @@
 package com.example.demo.util;
 
-public class MailContent {
+public enum em {
 
 }

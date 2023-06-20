@@ -20,6 +20,7 @@ public class Student {
 	private String name;
 	private String schoolName;
 	private String mobile;
+	private String email;
 	private Integer pinCode;
 
 }
